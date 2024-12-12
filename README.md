@@ -13,6 +13,7 @@ To get started with Solara Executor, follow these simple steps:
 
 
 
+
 ![Solara Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
